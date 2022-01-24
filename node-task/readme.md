@@ -22,8 +22,8 @@ Tai avaa linkki: [lunttilappu Markdownista](https://www.markdownguide.org/cheat-
 
 ## Add some image
 
-![alt text](./bee2.png)  
-<img src="./bee2.png" width="200" height="200">
+![alt text](https://github.com/VainiAnn/Test/blob/main/node-task/bee2.PNG)  
+<img src="https://github.com/VainiAnn/Test/blob/main/node-task/bee2.PNG" width="200" height="200">
 
 
 - Kuva liittyy harrastukseeni, mehiläistarhaukseen
